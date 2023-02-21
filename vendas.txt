@@ -1,0 +1,6 @@
+DESCRICAO           PRECO          QTD    CLIENTE_NOME        CLIENTE_CPF_CNPJ    CLIENTE_ENDERECO
+Gabinete FX123      105.50         2      Maria Santos        35816650181         Rua Antônio Barreto, 3010
+GPU RX580 8GB       2500.00        1      João Silva          83435443669         Av Magalhaes Barata, 500
+Mouse RGB           80.00          10     Tech LTDA           84235452000142      Rua dos Pariquis, 101
+TV 32"              989.99         1      Antônio Castro      38028614426         Av Almirante Barroso, 123
+Cooler 650w         450.00         7      Tech LTDA           84235452000142      Rua dos Pariquis, 101
